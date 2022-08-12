@@ -45,10 +45,6 @@
       }
     },
     created(){
-      console.log(this.adPort['adPortValue'])
-      let map = new Map();
-      map.set("nihao","cool")
-      console.log(map.get("nihao"))
 
 
     },
